@@ -1,0 +1,22 @@
+{
+  "name": "QPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of QPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/晴风/QPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "晴风": "xuqiang01@bilibili.com"
+  },
+  "source": {
+    "git": "https://github.com/晴风/QPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QPlayer/Classes/**/*"
+}

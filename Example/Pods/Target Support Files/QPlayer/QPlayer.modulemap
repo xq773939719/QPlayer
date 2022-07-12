@@ -1,0 +1,6 @@
+framework module QPlayer {
+  umbrella header "QPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

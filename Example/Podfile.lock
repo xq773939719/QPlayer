@@ -1,0 +1,16 @@
+PODS:
+  - QPlayer (0.1.0)
+
+DEPENDENCIES:
+  - QPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  QPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QPlayer: 1f5104599d1522c5da02484eaba40c23629ebc2b
+
+PODFILE CHECKSUM: c3617b849e02d964051231c086654300fa1913fa
+
+COCOAPODS: 1.11.2

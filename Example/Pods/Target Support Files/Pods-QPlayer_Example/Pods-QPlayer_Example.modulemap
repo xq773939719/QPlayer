@@ -1,0 +1,6 @@
+framework module Pods_QPlayer_Example {
+  umbrella header "Pods-QPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
